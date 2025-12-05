@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 1.6em;
+}
+
+h2 {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: normal;
+}
+
+h2,
+h3 {
+    padding-top: 0.5em;
+}
+
+li {
+    margin: 0 2em;
+}
