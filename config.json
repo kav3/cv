@@ -8,6 +8,9 @@
       "right": "3.1mm"
     }
   },
+  "marked_options": {
+    "breaks": true
+  },
   "stylesheet": [
     "styles.css"
   ]

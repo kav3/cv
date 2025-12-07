@@ -15,15 +15,33 @@ h2 {
     font-weight: bold;
 }
 
-h3 {
+h3,
+h4,
+h5,
+h6 {
     font-weight: normal;
 }
 
+h6 {
+    font-size: 0.7em;
+}
+
 h2,
-h3 {
+h3,
+h4 {
     padding-top: 0.5em;
+}
+
+h5,
+h6 {
+    padding-top: 0.8em;
 }
 
 li {
     margin: 0 2em;
+}
+
+code {
+    font-family: 'Fira Code', monospace;
+    font-size: 0.9em;
 }

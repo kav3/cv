@@ -1,6 +1,7 @@
-# My name
-Full Stack Developer | [my-site.com](http://my-site.com) | [my-github.com](http://my-github.com)\
-City, Province | my-phone | [my-linkedin.com](http://my-linkedin.com) | [my@email.com](mailto:my@email.com)\
+# [Full Name]
+**Full Stack Developer** | [Website URL](https://) | [GitHub URL](https://github.com/???)
+[City, Province] | [Phone Number] | [LinkedIn URL](https://linkedin.com/in/???) | [Email Address](my-email@gmail.com)
+
 \
 Detail oriented Full Stack Developer with **over 6 years** of experience building scalable web applications, RESTful APIs, and cloud based services. Strong background in JavaScript, TypeScript, and modern frameworks. Passionate about clean architecture, performance, and creating seamless user experiences from front end to back end.
 
